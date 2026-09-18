@@ -1,0 +1,8 @@
+1-Data Analysis
+    - Data Cleaning
+    - Actual visualization
+2-Ml Project
+- Data Cleaning
+- Data Transformation
+- Model Building
+- Model Deployment
